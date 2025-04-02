@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>All Posts - Felipe&#39;s Experimental Site</title>
+        <link>http://localhost:1313/posts/</link>
+        <description>All Posts | Felipe&#39;s Experimental Site</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="http://localhost:1313/posts/" rel="self" type="application/rss+xml" /><item>
+    <title></title>
+    <link>http://localhost:1313/posts/hello-world/</link>
+    <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
+    <author>xxxx</author>
+    <guid>http://localhost:1313/posts/hello-world/</guid>
+    <description><![CDATA[]]></description>
+</item>
+</channel>
+</rss>
