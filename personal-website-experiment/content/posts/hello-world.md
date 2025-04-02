@@ -1,3 +1,9 @@
++++
+title = "Hello world!"
+date = 2025-04-02
+draft = false
++++
+
 # This is my first post
 
 Yay! I want to see how things are rendered, e.g. if I use **bold** text or *italicized* text.
