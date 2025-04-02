@@ -5,5 +5,16 @@
         <description>This is my cool site</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 02 Apr 2025 00:00:00 &#43;0000</lastBuildDate>
             <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-        </channel>
+        <item>
+    <title>Hello world!</title>
+    <link>http://localhost:1313/posts/hello-world/</link>
+    <pubDate>Wed, 02 Apr 2025 00:00:00 &#43;0000</pubDate>
+    <author>Felipe</author>
+    <guid>http://localhost:1313/posts/hello-world/</guid>
+    <description><![CDATA[<h1 id="this-is-my-first-post">This is my first post</h1>
+<p>Yay! I want to see how things are rendered, e.g. if I use <strong>bold</strong> text or <em>italicized</em> text.</p>
+<h2 id="maybe-subtitles-are-nice">Maybe subtitles are nice?</h2>
+<p>I want to thank my dad, mom and sister for always believing in me.</p>]]></description>
+</item>
+</channel>
 </rss>
