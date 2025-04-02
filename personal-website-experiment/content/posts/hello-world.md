@@ -3,6 +3,7 @@ title = "Hello world!"
 date = 2025-04-02
 draft = false
 author = "Felipe"
+tags = ["hello", "intro"]
 +++
 
 # This is my first post
