@@ -2,6 +2,7 @@
 title = "Hello world!"
 date = 2025-04-02
 draft = false
+author = "Felipe"
 +++
 
 # This is my first post
